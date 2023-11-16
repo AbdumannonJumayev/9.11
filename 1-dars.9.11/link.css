@@ -1,0 +1,6 @@
+table,th, td{
+    border: 2px dotted red;
+}
+table{
+    width: 50%;
+}
